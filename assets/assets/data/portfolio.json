@@ -1,0 +1,113 @@
+{
+    "portfolio_data": {
+        "name": "Dr. Ahmed Ali Hashem Abdelal",
+        "title": "Veterinarian & Branch Manager",
+        "location": "Tahta, Sohag, Egypt",
+        "about": "Veterinarian specialized in small animal surgery, internal medicine, imaging diagnosis, and clinic management. Performed 20+ surgeries and progressed to branch manager.",
+        "technical_skills": [
+            "Small Animal Surgery",
+            "Internal Medicine",
+            "X-ray Diagnostics",
+            "Wound Management",
+            "Post-op Care",
+            "Vaccinations",
+            "Clinic Management"
+        ],
+        "soft_skills": [
+            "Team Leadership",
+            "Client Communication",
+            "Decision Making",
+            "Problem Solving",
+            "Time Management"
+        ],
+        "experiences": [
+            {
+                "role": "Branch Manager",
+                "organization": "Healthy Pet Veterinary Clinic",
+                "period": "Mar 2025 - Present",
+                "location": "Sohag, Egypt"
+            },
+            {
+                "role": "Veterinarian",
+                "organization": "Healthy Pet Veterinary Clinic",
+                "period": "Sep 2023 - Mar 2025",
+                "location": "Sohag, Egypt"
+            },
+            {
+                "role": "Trainee",
+                "organization": "Al-Nour Veterinary Center",
+                "period": "Jun 2022 - Sep 2023",
+                "location": "Sohag, Egypt"
+            }
+        ],
+        "education": [
+            {
+                "degree": "B.V.Sc (Bachelor of Veterinary Medicine)",
+                "institution": "Sohag University",
+                "period": "2020 - 2025"
+            }
+        ],
+        "email": "moppaa123ifc@gmail.com",
+        "phone": "01065431345",
+        "cv_url": "https://drive.google.com/file/d/1SYiVMaQT1ySrTj1TpxiawytmL_FwIBah/view?usp=drivesdk",
+        "whatsapp_url": "https://wa.me/201065431345",
+        "avatar_url": "assets/assets/main-photo.jpg"
+    },
+    "certificates": [
+        {
+            "id": 1,
+            "name": "Training Certificate",
+            "image_url": "assets/assets/certificate.jpg",
+            "pdf_url": "https://drive.google.com/file/d/1aA-cRSsDdpSjLB5WqC2yRj_EFvC_HMkP/view?usp=drivesdk"
+        }
+    ],
+    "surgeries": [
+        {
+            "id": 1,
+            "name": "Enterotomy",
+            "image_url": "https://res.cloudinary.com/dhk4cld95/image/upload/v1756236334/photo_2025-08-26_22-25-21_fkmewg.jpg",
+            "description": "A cat with an intestinal obstruction underwent a surgical procedure called an enterotomy. The blockage was removed, and the intestine was repaired."
+        },
+        {
+            "id": 2,
+            "name": "Surgical removal of pyometra",
+            "image_url": "assets/assets/2.jpg",
+            "description": "A surgical procedure was urgently performed to remove the pyometra."
+        },
+        {
+            "id": 3,
+            "name": "Ovariohysterectomy",
+            "image_url": "assets/assets/3.jpg",
+            "description": "A surgical procedure was performed to remove the uterus and ovaries of a female cat."
+        },
+        {
+            "id": 4,
+            "name": "Ovariohysterectomy for uterine neoplasia",
+            "image_url": "assets/assets/4.jpg",
+            "description": ""
+        },
+        {
+            "id": 5,
+            "name": "Aural hematoma repair",
+            "image_url": "https://res.cloudinary.com/dhk4cld95/image/upload/v1756235834/5_jzuoxc.jpg",
+            "description": ""
+        }
+    ],
+    "gallery": [
+        {
+            "id": 1,
+            "image_url": "assets/assets/gallery-1.jpg",
+            "title": ""
+        },
+        {
+            "id": 2,
+            "image_url": "assets/assets/gallery-2.jpg",
+            "title": ""
+        },
+        {
+            "id": 3,
+            "image_url": "assets/assets/gallery-3.jpg",
+            "title": ""
+        }
+    ]
+}
